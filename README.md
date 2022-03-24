@@ -44,7 +44,7 @@ And open the following URL in your web browser:
 
 ## AWS set up
 
-Assuming you have [correctly set up your AWS environment](http://kinoshita.eti.br/2016/10/04/using-the-aws-api-with-python/), you will now need to install AWS ElasticBeanstalk cli.
+Assuming you have [correctly set up your AWS environment](https://kinoshita.eti.br/2016/10/04/using-the-aws-api-with-python.html), you will now need to install AWS ElasticBeanstalk cli.
 
     $ pip install awsebcli
 
